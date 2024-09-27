@@ -3,6 +3,7 @@
 <br />Transitioning to a new career path as a Data Analyst, I have gained the technical skills through a 300-hour training program with DataScientest, certified by École des Mines Paris - PSL.
 - 👀 I’m currently working on various projects that you can find on my Github account or on my <a href="https://louis-marechal.github.io" target="_blank">portfolio</a>
 - 💻 Eager for a new challenge and able to adapt quickly to any industry, I am now pursuing a future as a Data Analyst. Feel free to contact me for any professional project!
+- 🔧 Technical skills : Python, SQL, Power BI, Machine Learning, Scikit-learn, Pandas, Numpy, Seaborn, SciPy, Matplotlib, BeautifulSoup (Web Scraping), Text Mining, Google Analytics, Streamlit, Plotly, Excel, Canva, Wordpress, Yoast, Search Console (SEO), MetaBusiness, Brevo
 - 📫 How to reach me : [marechal-louis@hotmail.com](mailto:marechal-louis@hotmail.com)
 - 🌍 Paris, France
 - ⚡ Fun fact: I'm Belgian !
